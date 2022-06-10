@@ -1,0 +1,5 @@
+foul
+out
+hit
+long_hit
+homerun
